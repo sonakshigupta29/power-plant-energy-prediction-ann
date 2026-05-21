@@ -30,7 +30,7 @@ The close alignment between training loss and validation loss suggests that the 
 ## Training and Validation Loss Graph
 
 <p align="center">
-  <img src="results/losscurve.png" width="700"/>
+  <img src="results/loss_curve.png" width="700"/>
 </p>
 
 <p align="center">
